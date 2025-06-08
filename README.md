@@ -1,7 +1,6 @@
 return {
-    notify = "👋 GOD HUB Online!",
+    notify = "👋 Conectado com sucesso!",
     execute = [[
-        print("Olá do script remoto!")
-        -- Você pode colocar aqui qualquer código Lua que quer rodar no executor.
+        print("Rodando script do GitHub...")
     ]]
 }
